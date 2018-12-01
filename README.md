@@ -1,6 +1,4 @@
-## This project is not being actively updated. Please feel free to create a fork and develop extra functionality!
-
-Check out homebridge-eWeLink-plus
+## FORKED FROM THE ORGINAL AND UPDATED TO SUPPORT 1, 2 AND 3 SWITCHS
 
 # homebridge-ewelink
 Homebridge plugin to control Sonoff relays with OEM firmware. It uses the same API as the iOS app to communicate with your devices.
